@@ -120,4 +120,4 @@ Para cada risco foram definidas ações de mitigação visando reduzir impactos 
 O InsightAI Service Desk foi planejado seguindo conceitos de Gestão de Produtos Digitais, MVP, Roadmap, Gestão de Riscos e Inteligência Artificial aplicada aos negócios.
 
 A proposta busca entregar valor rapidamente, reduzir riscos de implementação e permitir evolução contínua da solução por meio de ciclos iterativos de melhoria.
-https://miro.com/welcomeonboard/bllhTUIxSDJqSHJyYmVEK3YrL2cwZE0wZU1iMk9FRnFHRE81TGNjeW53ekExSGs3RHhSNkZ5K284THd6OU1Pd2xybHgzdGlIMlE2aWlIUW42N3RhYXFUT3ZZSzJ1U1RkZnNDamNFUnVZbTVJOTcraStJWktlRTZWTThTYlVRdHFhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=509819472233
+https://miro.com/app/board/uXjVHJ0fcu0=/?share_link_id=810416470389
